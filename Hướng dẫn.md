@@ -8,7 +8,7 @@
 - Phạm Xuân Sang. 20195991
 #### Các nội dung mã nguồn và file:
 - Tìm giá trị lớn nhất, nhỏ nhất của hàm một biến trên một đoạn đóng bằng cách tìm các điểm cực đại, cực tiểu và so sánh hai đầu mút: 
-  -  Giải thích code: [Gradient Descent.ipynb](https://github.com/phamxuansang241/Gi-i-t-ch-s---Ch-7/blob/main/Gradient%20Descent.ipynb).
+  -  Giải thích code: [Gradient Descent.ipynb](https://github.com/phamxuansang241/Gi-i-t-ch-s---Ch-7/blob/main/Gradient%20Descend.ipynb)
   -  Mã nguồn: [Gradient Descend.py](https://github.com/phamxuansang241/Gi-i-t-ch-s---Ch-7/blob/main/Code%20Python/Gradient%20Descend.py)
 - Tìm giá trị nhỏ nhất của hàm một biến bằng phương pháp Gradient Descend kết hợp Momentum: [Gradient Descend With Momentum.ipynb](https://github.com/phamxuansang241/Gi-i-t-ch-s---Ch-7/blob/main/Gradient%20Descend%20With%20Momentum.ipynb).
 - Tìm giá trị nhỏ nhất của hàm một biến với cải tiền Momentum bằng NAG: [NAG.ipynb][https://github.com/phamxuansang241/Gi-i-t-ch-s---Ch-7/blob/main/NAG.ipynb].
