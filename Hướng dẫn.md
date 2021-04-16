@@ -16,3 +16,6 @@
 - Tìm giá trị nhỏ nhất của hàm một biến với cải tiền Momentum bằng NAG: 
   - Giải thích code: [NAG.ipynb](https://github.com/phamxuansang241/Gi-i-t-ch-s---Ch-7/blob/main/NAG.ipynb)
   - Mã nguồn: [NAG.py](https://github.com/phamxuansang241/Gi-i-t-ch-s---Ch-7/blob/main/Code%20Python/NAG.py)
+- Tìm giá trị nhỏ nhất của hàm một biến bằng thuật toán Gradient Descent với kỹ thuật Adagrad:
+  - Giải thích code: [Adagrad.ipynb](https://github.com/phamxuansang241/Gi-i-t-ch-s---Ch-7/blob/main/Adagrad.ipynb)
+  - Mã nguồn: [Adagra.py](https://github.com/phamxuansang241/Gi-i-t-ch-s---Ch-7/blob/main/Code%20Python/Adagrad.py)
