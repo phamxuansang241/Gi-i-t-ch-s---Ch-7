@@ -13,4 +13,6 @@
 - Tìm giá trị nhỏ nhất của hàm một biến bằng phương pháp Gradient Descend kết hợp Momentum: 
   - Giải thích code: [Gradient Descend With Momentum.ipynb](https://github.com/phamxuansang241/Gi-i-t-ch-s---Ch-7/blob/main/Gradient%20Descend%20With%20Momentum.ipynb)
   - Mã nguồn: [Momentum.py](https://github.com/phamxuansang241/Gi-i-t-ch-s---Ch-7/blob/main/Code%20Python/Momentum.py)
-- Tìm giá trị nhỏ nhất của hàm một biến với cải tiền Momentum bằng NAG: [NAG.ipynb][https://github.com/phamxuansang241/Gi-i-t-ch-s---Ch-7/blob/main/NAG.ipynb].
+- Tìm giá trị nhỏ nhất của hàm một biến với cải tiền Momentum bằng NAG: 
+  - Giải thích code: [NAG.ipynb](https://github.com/phamxuansang241/Gi-i-t-ch-s---Ch-7/blob/main/NAG.ipynb)
+  - Mã nguồn: [NAG.py](https://github.com/phamxuansang241/Gi-i-t-ch-s---Ch-7/blob/main/Code%20Python/NAG.py)
